@@ -1,4 +1,3 @@
-
 --  Create 'dept' table (Created first so 'emp' can map foreign relationships)
 CREATE TABLE dept (
     deptno INT PRIMARY KEY,
